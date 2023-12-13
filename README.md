@@ -13,8 +13,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -32,8 +30,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
-
-###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregsaj&show_icons=true&locale=en&layout=compact" alt="gregsaj" /></p>
 
