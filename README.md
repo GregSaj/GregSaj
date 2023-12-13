@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Grzesiek (you can call me Greg)</h1>
+<h1 align="center">Hi 👋, I'm Grzesiek (you can call me Greg</h1>
 <h3 align="center">Junior .Net Developer</h3>
 
 - 🌱 I’m currently learning **C# and Microsoft .Net**
